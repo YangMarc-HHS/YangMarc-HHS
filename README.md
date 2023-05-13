@@ -1,6 +1,5 @@
-public class README {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+#include <iostream>
+int main () {
+    std::cout << "C++ sucks" << std::endl
 }
 
